@@ -7,3 +7,9 @@ Devido à plasticidade cortical do cérebro, os sinais das próteses implantadas
 após adaptação, ser manipulados pelo cérebro como sensores naturais ou canais efetores.
 -Registrar a atividade cerebral humana por meio de EEG.
 -Capaz de identificar a atividade oscilatória , como a onda de Berger ou a onda alfa (8-13 Hz), analisando traços de EEG.
+O cérebro humano é composto de neurônios interconectados ; os padrões de interação entre esses neurônios são representados como pensamentos, memória e estados emocionais.
+Cada interação entre os neurônios cria uma descarga elétrica minúscula 
+Esses padrões levam a ondas caracterizadas por diferentes amplitudes e frequências; 
+por exemplo, ondas entre 12 e 30 hertz, ondas beta, estão associadas à concentração, 
+enquanto ondas entre 8 e 12 hertz, ondas alfa, estão associadas ao relaxamento e a um estado de calma mental. 
+(A contração dos músculos também está associada a padrões de ondas únicos
