@@ -1,2 +1,2 @@
-# Amarzenamento-Memoria--C-rebro-
+# Amarzenamento-Memoria Cérebro 
 Interface-Cérebro-Computador
