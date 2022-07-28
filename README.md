@@ -12,4 +12,7 @@ Cada interação entre os neurônios cria uma descarga elétrica minúscula
 Esses padrões levam a ondas caracterizadas por diferentes amplitudes e frequências; 
 por exemplo, ondas entre 12 e 30 hertz, ondas beta, estão associadas à concentração, 
 enquanto ondas entre 8 e 12 hertz, ondas alfa, estão associadas ao relaxamento e a um estado de calma mental. 
-(A contração dos músculos também está associada a padrões de ondas únicos
+(A contração dos músculos também está associada a padrões de ondas únicos )
+(Desenvolver Algoritmos Complexos Embutidos em Sensores )
+(Estes são eletrodos secos que podem medir as ondas cerebrais a milímetros do couro cabeludo e, portanto, podem ser facilmente usados ​​sobre o cabelo.
+Esses sensores são um avanço tecnológico significativo.
