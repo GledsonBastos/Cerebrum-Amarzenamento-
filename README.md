@@ -1,5 +1,6 @@
 Amarzenamento-Memoria-Cérebro 
 Interface-Cérebro-Computador
+![images (8)](https://user-images.githubusercontent.com/62495617/181656097-f81c968b-d59a-491c-9509-3ec1e72dca0c.jpeg)
 
 é uma via de comunicação direta entre a atividade elétrica do cérebro e um dispositivo externo
 mais comumente um computador ou membro robótico
