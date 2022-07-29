@@ -27,3 +27,5 @@ Esses sensores são um avanço tecnológico significativo.
 ![images (12)](https://user-images.githubusercontent.com/62495617/181658908-f3899a0f-3495-4c2e-a5cf-53d46a340415.jpeg)
 Estamos levando a computação controlada pelo pensamento rede neural para o próximo nível 
 fazendo processamentos através de neurônios distribuídos em camadas, que podem ser de entrada, ocultas ou de saída, sendo a primeira e a terceira as camadas de passagem de informação para dentro e para fora da rede neural, enquanto as camadas ocultas processam a informação
+
+![images (20)](https://user-images.githubusercontent.com/62495617/181660054-941c025e-8aad-4cee-a34e-9eedc0eea704.jpeg)
