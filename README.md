@@ -24,3 +24,4 @@ enquanto ondas entre 8 e 12 hertz, ondas alfa, estão associadas ao relaxamento 
 (Desenvolver Algoritmos Complexos Embutidos em Sensores )
 (Estes são eletrodos secos que podem medir as ondas cerebrais a milímetros do couro cabeludo e, portanto, podem ser facilmente usados ​​sobre o cabelo.
 Esses sensores são um avanço tecnológico significativo.
+![images (17)](https://user-images.githubusercontent.com/62495617/181657724-cbfc4e5d-8852-4e58-a9ec-85d0b1c65033.jpeg)
