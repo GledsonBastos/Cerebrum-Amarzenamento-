@@ -24,4 +24,6 @@ enquanto ondas entre 8 e 12 hertz, ondas alfa, estão associadas ao relaxamento 
 (Desenvolver Algoritmos Complexos Embutidos em Sensores )
 (Estes são eletrodos secos que podem medir as ondas cerebrais a milímetros do couro cabeludo e, portanto, podem ser facilmente usados ​​sobre o cabelo.
 Esses sensores são um avanço tecnológico significativo.
-![images (17)](https://user-images.githubusercontent.com/62495617/181657724-cbfc4e5d-8852-4e58-a9ec-85d0b1c65033.jpeg)
+![images (12)](https://user-images.githubusercontent.com/62495617/181658908-f3899a0f-3495-4c2e-a5cf-53d46a340415.jpeg)
+Estamos levando a computação controlada pelo pensamento rede neural para o próximo nível 
+fazendo processamentos através de neurônios distribuídos em camadas, que podem ser de entrada, ocultas ou de saída, sendo a primeira e a terceira as camadas de passagem de informação para dentro e para fora da rede neural, enquanto as camadas ocultas processam a informação
