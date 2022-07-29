@@ -6,7 +6,8 @@ Interface-Cérebro-Computador
 mais comumente um computador ou membro robótico
 Devido à plasticidade cortical do cérebro, os sinais das próteses implantadas podem
 após adaptação, ser manipulados pelo cérebro como sensores naturais ou canais efetores.
-![images (10)](https://user-images.githubusercontent.com/62495617/181656309-99f43048-0951-41a9-b3c9-a736fa6fe33a.jpeg)
+
+![images (9)](https://user-images.githubusercontent.com/62495617/181656477-6c3fd184-81c2-44be-8ec5-6a1e802c0bed.jpeg)
 
 -Registrar a atividade cerebral humana por meio de EEG.
 -Capaz de identificar a atividade oscilatória , como a onda de Berger ou a onda alfa (8-13 Hz), analisando traços de EEG.
