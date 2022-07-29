@@ -12,6 +12,8 @@ após adaptação, ser manipulados pelo cérebro como sensores naturais ou canai
 -Registrar a atividade cerebral humana por meio de EEG.
 -Capaz de identificar a atividade oscilatória , como a onda de Berger ou a onda alfa (8-13 Hz), analisando traços de EEG.
 O cérebro humano é composto de neurônios interconectados ; os padrões de interação entre esses neurônios são representados como pensamentos, memória e estados emocionais.
+
+![images (14)](https://user-images.githubusercontent.com/62495617/181656741-e6f99d33-8ec0-49ed-b322-6c9506782821.jpeg)
 Cada interação entre os neurônios cria uma descarga elétrica minúscula 
 Esses padrões levam a ondas caracterizadas por diferentes amplitudes e frequências; 
 por exemplo, ondas entre 12 e 30 hertz, ondas beta, estão associadas à concentração, 
